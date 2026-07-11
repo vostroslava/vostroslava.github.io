@@ -1,0 +1,1 @@
+import{r as a}from"./index.saqyeS7l.js";import{a as r,l as s}from"./seo-analytics.X1IvzSSU.js";function i({pageSlug:t,pageType:e,heroVariant:o}){return a.useEffect(()=>{r(),s("page_view",{page_slug:t,page_type:e,hero_variant:o,source:"seo_landing"})},[o,t,e]),null}export{i as default};
